@@ -16,14 +16,25 @@ To exit your vehicle, you must be close enough to the ground!
 Save and Quit doesn't save yet!
 
 All music is by Kevin MacLeod-
+
 Almost New ----------------------- Uranus music
+
 Anguish -------------------------- Mercury music
+
 Disquiet ------------------------- Saturn music
+
 Final Battle of The Dark Wizards - Jupiter music
+
 Floating Cities ------------------ Moon music
+
 Guzheng City --------------------- Earth music
+
 Lost Time ------------------------ Neptune music
+
 Man Down ------------------------- Solar music (outer space)
+
 Myst on The Moor ----------------- Venus music
+
 Mystery Sax ---------------------- Main menu music
+
 Past the Edge -------------------- Mars music
